@@ -14,9 +14,26 @@
 - BMR Calculator
 - Gym E-Commerce
 
-## Screenshots
-![plot](thanos.jpeg)
-*Interface of Our Project.*
+# Screenshots
+## THANOS
+![plot](screenshots/thanos.jpeg)
+*It is HomePage of Our WebApplication for fitness.*
+
+## THANOS
+![plot](screenshots/bmr.jpeg)
+*BMR(Bascal Metabolic Rate) Calculator - tracks the bmr rate .*
+
+## THANOS
+![plot](screenshots/video.png)
+*Video Demonstrator - for the users who don't associate with the fitness .we introduce video demonstration for the users.*
+
+## THANOS
+![plot](screenshots/chatbot.png)
+*FIT BOT - an AI/AGI powered Chatbot is used to generate specific workout plans and diet charts.*
+
+## THANOS
+![plot](screnshots/e commerce.jpeg)
+*GYM COM - to supply quality workout equipments and certified supplements , we introduce a gym e commerce page to buy gym products.*
 
 ## Requirements
 - Python 3.8.10
